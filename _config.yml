@@ -2,7 +2,7 @@ title: Johannes de Wits filosofiebank
 description: Hier verzamel ik materiaal voor het lesgeven waar anderen misschien wat aan hebben!
 remote_theme: pages-themes/cayman@v0.2.0
 url: "https://berthaamelia.github.io"
-base_url: "/"
+baseurl: "/"
 plugins:
 - jekyll-remote-theme
 
