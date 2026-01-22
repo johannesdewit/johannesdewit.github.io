@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Johannes de Wits filosofiebank
 description: Hier verzamel ik materiaal voor het lesgeven dat relevant voor anderen is!
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
