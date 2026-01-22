@@ -137,7 +137,9 @@ Deze eindtermen zijn terug te vinden in, en overgenomen van [de syllabus op exam
 	- een uitleg van Barads argument dat de mens een verstrengeling van materiaal en betekenis is/wordt; 
 	- een uitleg van Harari’s argument dat de mens data wordt; 
 	- een uitleg met tekstfragment 16 van Rasch’ kanttekening dat het dataïsme mensen reduceert tot karikaturale profielen.
+
 ## Eindterm afsluiting
+
 22. De kandidaten kunnen het blijvende belang van de filosofische vraag naar de mens uitleggen en evalueren. Daarbij kunnen zij betrekken: 
 	- Plessners wet van de utopische standplaats; 
 	- hedendaagse grensvervagingen; 
