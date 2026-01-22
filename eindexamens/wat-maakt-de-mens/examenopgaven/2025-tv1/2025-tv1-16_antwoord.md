@@ -1,0 +1,13 @@
+# Opgave 16 antwoordmodel
+_3 pt_ - 2025, tijdvak 1.
+
+Een goed antwoord bevat de volgende elementen: 
+- een uitleg van de dubbelzinnige verhouding van de mens tot het eigen lichaam, met het voorbeeld van lachen: lachen is iets fysieks en is tegelijkertijd betekenisvol op een manier die het lichamelijke overstijgt, wat de mens laat zien als een wezen dat zowel een lichaam is als een lichaam heeft (1) 
+- een uitleg met het vermogen tot symbolische uitdrukking dat chimpansees volgens Plessner niet kunnen lachen: chimpansees kunnen in tegenstelling tot mensen niet lachen, omdat ze geen symbolische woorden/gebaren hebben die tekort kunnen schieten (1 )
+- een argument met het vermogen tot symbolische uitdrukking tegen Plessners standpunt dat chimpansees niet kunnen lachen (1)
+
+## Voorbeeld
+voorbeeld van een goed antwoord: 
+- Mensen hebben een dubbelzinnige verhouding tot hun eigen lichaam, omdat ze zowel een ‘lichamelijk’ wezen zijn als een wezen ‘in het lichaam-ding’. In het lachen toont deze gebrokenheid van de mens zich. Als je lacht, verliest het wezen ‘in het lichaam-ding’ de controle en verval je in het lichaam-zijn, omdat de situatie onbeantwoordbaar is. (1) 
+- Mensen hebben volgens Plessner het vermogen tot symbolische reacties. Het menselijke lachen laat zien hoe ‘woorden tekort kunnen schieten’, waardoor de mens vervalt in het lichamelijke. Chimpansees kunnen die reacties vanuit woord en gebaar nooit geven en kunnen dus ook niet – al lachend – vervallen in het lichamelijke. Als de chimpansee bij de goocheltruc achterovervalt, kun je dat dus geen lachen noemen, omdat hij volgens Plessner geen excentriciteit en daarom geen symbolische uitdrukking tot zijn beschikking heeft. Alleen wie het vermogen tot symbolische uitdrukkingen heeft, kan in lachen uitbarsten wanneer dit vermogen tekortschiet. (1) 
+- Chimpansees kunnen wel lachen en dit kan blijken uit het filmpje. Plessner gaat ervan uit dat dieren niet in staat zijn tot symbolische reacties, maar volgens mij kunnen chimpansees met gebaren, gezichtsuitdrukkingen en klanken wel degelijk symbolisch op situaties reageren. In het voorbeeld van de goocheltruc is de chimpansee blijkbaar heel verbaasd. De truc is een doorbreking van zijn verwachtingen – het bekertje is leeg! De chimpansee zou hierop een beheerste, symbolische reactie kunnen geven, zoals de mens wenken om het bekertje beter te kunnen bekijken. In plaats daarvan ervaart hij het echter als een symbolisch onbeantwoordbare situatie en valt hij met open mond achterover. Zo vervalt ook de chimpansee in het lichamelijke. (1)
