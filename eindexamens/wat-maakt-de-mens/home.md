@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Wat maakt de mens"
-permalink: /eindexamen/wat-maakt-de-mens
+permalink: /eindexamens/wat-maakt-de-mens
 ---
 
 # Wat maakt de mens?
@@ -12,5 +12,5 @@ Ik gebruik daarbij het boek _Wat maakt de mens?_.
 
 ## Materialen
 
-- [Eindexamenopgaven per hoofdstuk en kwestie.](examenopgaven/examenopgaven-per-hoofdstuk.md)
-- [Eindtermen](eindtermen/home.md)
+- [Eindexamenopgaven per hoofdstuk en kwestie.](/examenopgaven/examenopgaven-per-hoofdstuk.md)
+- [Eindtermen](/eindtermen/home.md)
