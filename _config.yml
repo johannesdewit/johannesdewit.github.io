@@ -26,9 +26,10 @@ url: "https://johannesdewit.github.io" # the base hostname & protocol for your s
 github_username:  johannesdewit
 
 # Build settings
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 defaults:
   -
