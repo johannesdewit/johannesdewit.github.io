@@ -11,4 +11,4 @@ Hier vind je materialen die ik gebruik om mijn leerlingen les te geven over filo
 ## Overzicht
 
 - Eindexamenonderwerpen
-  - [\[2024 - ... \] 'DE VRAAG NAAR DE MENS IN RELATIE TOT TECHNIEK EN WETENSCHAP' oftewel _Wat maakt de mens?_](eindexamens/wat-maakt-de-mens/home.md)
+  - [\[2024 - heden \] 'De vraag naar de mens in relatie tot techniek en wetenschap' oftewel _Wat maakt de mens?_](eindexamens/wat-maakt-de-mens/home.md)
