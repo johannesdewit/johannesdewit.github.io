@@ -12,5 +12,5 @@ Ik gebruik daarbij het boek _Wat maakt de mens?_.
 
 ## Materialen
 
-- [Eindexamenopgaven per hoofdstuk en kwestie.](examenopgaven-per-hoofdstuk.md)
-- [Eindtermen](eindtermen.md)
+- [Eindexamenopgaven per hoofdstuk en kwestie.](examenopgaven/examenopgaven-per-hoofdstuk.md)
+- [Eindtermen](eindtermen/home.md)
