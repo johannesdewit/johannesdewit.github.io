@@ -1,3 +1,7 @@
+---
+tags:
+  - 2025-tv2
+---
 # Examen filosofie 2025 tijdvak 2
 
 Vind dit [examen op examenblad.nl](https://www.examenblad.nl/2025/vwo/vakken/maatschappijvakken/filosofie-vwo).

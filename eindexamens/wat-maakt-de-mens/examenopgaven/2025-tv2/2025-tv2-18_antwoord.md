@@ -1,3 +1,7 @@
+---
+tags:
+  - 2025-tv2
+---
 # Opgave 18 antwoordmodel
 _2 pt_ - 2025, tijdvak 2.
 
