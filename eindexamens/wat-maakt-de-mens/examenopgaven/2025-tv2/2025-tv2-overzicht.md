@@ -2,35 +2,51 @@
 
 Vind dit [examen op examenblad.nl](https://www.examenblad.nl/2025/vwo/vakken/maatschappijvakken/filosofie-vwo).
 
-*De opgaven zijn zo overgenomen dat ze individueel in de les of thuis gebruikt kunnen worden.*
+*De vragen zijn zo overgenomen dat ze individueel in de les of thuis gebruikt kunnen worden.*
 
 ## Uitgesplitst per domein en hoofdstuk van *Wat maakt de mens?*
 
-| Domein                      | Hoofdstuk    | Opgaven                                                        |
-| --------------------------- | ------------ | -------------------------------------------------------------- |
-| Alg./2e fase ET 1-4. 22     | Inleiding    | [3](2025-tv2-3.md), [6](2025-tv2-6.md)                         |
-| Kwestie 1 ET 5-8            | Hoofdstuk 1  | [8](2025-tv2-8.md)                                             |
-|                             | Hoofdstuk 2  | [4](2025-tv2-4.md), [18](2025-tv2-18.md), [19](2025-tv2-19.md) |
-|                             | Hoofdstuk 3  | [13](2025-tv2-13.md), [14](2025-tv2-14.md)                     |
-| Kwestie 2 ET 9-12           | Hoofdstuk 4  | -                                                              |
-|                             | Hoofdstuk 5  | [16](2025-tv2-16.md)                                           |
-|                             | Hoofdstuk 6  | [1](2025-tv2-1.md), [15](2025-tv2-15.md)                       |
-| Kwestie 3 ET 13-17          | Hoofdstuk 7  | [2](2025-tv2-2.md), [9](2025-tv2-9.md)                         |
-|                             | Hoofdstuk 8  | [10](2025-tv2-10.md)                                           |
-|                             | Hoofdstuk 9  | -                                                              |
-|                             | Hoofdstuk 10 | [7](2025-tv2-7md)                                              |
-| Kwestie 4 ET 18-21          | Hoofdstuk 11 |                                                                |
-|                             | Hoofdstuk 12 |                                                                |
-|                             | Hoofdstuk 13 |                                                                |
+| Domein                  | Hoofdstuk    | Vragen                                                         |
+| ----------------------- | ------------ | -------------------------------------------------------------- |
+| Alg./2e fase ET 1-4. 22 | Inleiding    | [3](2025-tv2-3.md), [6](2025-tv2-6.md)                         |
+| Kwestie 1 ET 5-8        | Hoofdstuk 1  | [8](2025-tv2-8.md)                                             |
+|                         | Hoofdstuk 2  | [4](2025-tv2-4.md), [18](2025-tv2-18.md), [19](2025-tv2-19.md) |
+|                         | Hoofdstuk 3  | [13](2025-tv2-13.md), [14](2025-tv2-14.md)                     |
+| Kwestie 2 ET 9-12       | Hoofdstuk 4  | -                                                              |
+|                         | Hoofdstuk 5  | [16](2025-tv2-16.md)                                           |
+|                         | Hoofdstuk 6  | [1](2025-tv2-1.md), [15](2025-tv2-15.md)                       |
+| Kwestie 3 ET 13-17      | Hoofdstuk 7  | [2](2025-tv2-2.md), [9](2025-tv2-9.md)                         |
+|                         | Hoofdstuk 8  | [10](2025-tv2-10.md)                                           |
+|                         | Hoofdstuk 9  | -                                                              |
+|                         | Hoofdstuk 10 | [7](2025-tv2-7.md)                                             |
+| Kwestie 4 ET 18-21*     | Hoofdstuk 11 | [21](2025-tv2-21.md)                                           |
+|                         | Hoofdstuk 12 | [12](2025-tv2-12.md)                                           |
+|                         | Hoofdstuk 13 | [11](2025-tv2-11.md)                                           |
 
+\* nog niet uitgesplitst.
 
-## Opgaven op volgorde
+## Vragen op volgorde
 
-- [3](2025-tv2-3.md)
-- [4](2025-tv2-4.md)
-- [6](2025-tv2-6.md)
-- [8](2025-tv2-8.md)
-- [13](2025-tv2-13.md)
-- [14](2025-tv2-14.md)
-- [18](2025-tv2-18.md)
-- [19](2025-tv2-19.md)
+- Opgave 1
+	- [Vraag 1](2025-tv2-14.md)
+	- [Vraag 2](2025-tv2-14.md)
+	- [Vraag 3](2025-tv2-3.md)
+	- [Vraag 4](2025-tv2-4.md)
+	- [Vraag 5](2025-tv2-5.md)
+	- [Vraag 6](2025-tv2-6.md)
+	- [Vraag 7](2025-tv2-7.md)
+- Opgave 2
+	- [Vraag 8](2025-tv2-8.md)
+	- [Vraag 9](2025-tv2-9.md)
+	- [Vraag 10](2025-tv2-10.md)
+	- [Vraag 11](2025-tv2-11.md)
+	- [Vraag 13](2025-tv2-13.md)
+	- [Vraag 14](2025-tv2-14.md)
+	- [Vraag 15](2025-tv2-15.md)
+	- [Vraag 16](2025-tv2-16.md)
+- Opgave 3
+	- [Vraag 17](2025-tv2-17.md)
+	- [Vraag 18](2025-tv2-18.md)
+	- [Vraag 19](2025-tv2-19.md)
+	- [Vraag 20](2025-tv2-20.md)
+	- [Vraag 21](2025-tv2-21.md)

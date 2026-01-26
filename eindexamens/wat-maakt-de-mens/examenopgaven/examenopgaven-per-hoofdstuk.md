@@ -5,7 +5,7 @@ permalink: /eindexamens/wat-maakt-de-mens/examenopgaven/examenopgaven-per-hoofds
 ---
 
 # Examenopgaven per hoofdstuk van _Wat maakt de mens?_
-*De opgaven zijn zo opgenomen dat ze individueel gemaakt kunnen worden. Ze komen van <https://www.examenblad.nl/>, en daar liggen dan ook de rechten. Ze zijn hier slechts over genomen ten behoeve van examenkandidaten.*
+*De opgaven zijn zo opgenomen dat ze individueel gemaakt kunnen worden. Ze komen van <https://www.examenblad.nl/>, en daar liggen dan ook de rechten. Ze zijn hier slechts overgenomen ten behoeve van examenkandidaten.*
 
 Deze pagina wordt nog verder aangevuld.
 
@@ -44,9 +44,9 @@ Deze pagina wordt nog verder aangevuld.
 
 _Wordt aan gewerkt..._
 
-|              | 2025 \| Tijdvak 1                                                                                                          | 2025 \| Tijdvak 2     |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| Kwestie 4    |                                                                                                                            | 5, 11, 12, 17, 20, 21 |
-| Hoofdstuk 11 | [13](2025-tv1/2025-tv1-13.md), [18](2025-tv1/2025-tv1-18.md), [19](2025-tv1/2025-tv1-19.md), [23](2025-tv1/2025-tv1-23.md) |                       |
-| Hoofdstuk 12 | [5](2025-tv1/2025-tv1-5.md), [6](2025-tv1/2025-tv1-6.md)                                                                   |                       |
-| Hoofdstuk 13 | [14](2025-tv1/2025-tv1-14.md), [20](2025-tv1/2025-tv1-20.md)                                                               |                       |
+|              | 2025 \| Tijdvak 1                                                                                                          | 2025 \| Tijdvak 2             |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| Kwestie 4    |                                                                                                                            | 5, 17, 20                     |
+| Hoofdstuk 11 | [13](2025-tv1/2025-tv1-13.md), [18](2025-tv1/2025-tv1-18.md), [19](2025-tv1/2025-tv1-19.md), [23](2025-tv1/2025-tv1-23.md) | [21](2025-tv2/2025-tv2-21.md) |
+| Hoofdstuk 12 | [5](2025-tv1/2025-tv1-5.md), [6](2025-tv1/2025-tv1-6.md)                                                                   | [12](2025-tv2/2025-tv2-12.md) |
+| Hoofdstuk 13 | [14](2025-tv1/2025-tv1-14.md), [20](2025-tv1/2025-tv1-20.md)                                                               | [11](2025-tv2/2025-tv2-11.md) |
