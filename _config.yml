@@ -37,6 +37,17 @@ defaults:
       path: ""
     values:
       layout: page
+  -
+    scope:
+      path: "eindexamens/*/examenopgaven/*/vragen/"
+    values:
+      layout: exercise
+      answer_dir: "../antwoorden/"
+  -
+    scope:
+      path: "eindexamens/*/examenopgaven/*/antwoorden/"
+    values:
+      layout: answer
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Wat maakt de mens? | Examenopgaven"
-permalink: /eindexamens/wat-maakt-de-mens/examenopgaven/examenopgaven-per-hoofdstuk
+permalink: /eindexamens/wat-maakt-de-mens/examenopgaven-per-hoofdstuk
 ---
 
 # Examenopgaven per hoofdstuk van _Wat maakt de mens?_
