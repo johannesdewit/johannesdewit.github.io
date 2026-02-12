@@ -15,3 +15,4 @@ Ik gebruik daarbij het boek _Wat maakt de mens?_.
 - [Eindexamenopgaven > per hoofdstuk en kwestie.](examenopgaven/examenopgaven-per-hoofdstuk.md)
 - [Eindexamenopgaven > per examen](examenopgaven/eindexamens-overzicht.md)
 - [Eindtermen](eindtermen/home.md)
+- [Lesmateriaal & bronnen](lesmateriaal.md)
