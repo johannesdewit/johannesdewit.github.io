@@ -6,7 +6,7 @@ permalink: /eindexamens/wat-maakt-de-mens
 
 # Wat maakt de mens?
 
-Het eindexamen onderwerp voor het VWO vanaf 2024 is 'De vraag naar de mens in relatie tot techniek en wetenschap'.
+Het eindexamenonderwerp voor het VWO vanaf 2024 is 'De vraag naar de mens in relatie tot techniek en wetenschap'.
 
 Ik gebruik daarbij het boek _Wat maakt de mens?_.
 
