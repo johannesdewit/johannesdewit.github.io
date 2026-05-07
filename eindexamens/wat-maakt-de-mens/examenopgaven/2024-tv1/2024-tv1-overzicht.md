@@ -1,6 +1,6 @@
 # Examen filosofie 2024 tijdvak 1
 
-Vind dit [examen op examenblad.nl](https://www.examenblad.nl/2024/vwo/vakken/maatschappijvakken/filosofie-vwo).
+Vind dit [examen op examenblad.nl](https://www.examenblad.nl/2024/vwo/vakken/maatschappijvakken/filosofie-vwo).  | N-term: 1,0.
 ## Uitsplitsing vragen per domein en per hoofdstuk van *Wat maakt de mens?*
 
 *De opgaven zijn zo opgenomen dat ze individueel in de les of thuis gebruikt kunnen worden om te oefenen.*

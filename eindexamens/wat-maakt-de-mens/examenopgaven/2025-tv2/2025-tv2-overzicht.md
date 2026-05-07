@@ -4,7 +4,7 @@ tags:
 ---
 # Examen filosofie 2025 tijdvak 2
 
-Vind dit [examen op examenblad.nl](https://www.examenblad.nl/2025/vwo/vakken/maatschappijvakken/filosofie-vwo).
+Vind dit [examen op examenblad.nl](https://www.examenblad.nl/2025/vwo/vakken/maatschappijvakken/filosofie-vwo). |  | N-term: 1,2.
 
 *De vragen zijn zo overgenomen dat ze individueel in de les of thuis gebruikt kunnen worden.*
 
