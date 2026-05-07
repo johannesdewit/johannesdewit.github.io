@@ -3,7 +3,7 @@ published: true
 ---
 # Examen filosofie 2024 tijdvak 2
 
-Vind [dit examen op examenblad.nl](https://www.examenblad.nl/2024/vwo/vakken/maatschappijvakken/filosofie-vwo). | N-term: 1,0.
+Vind [dit examen op examenblad.nl](https://www.examenblad.nl/2024/vwo/vakken/maatschappijvakken/filosofie-vwo). \| N-term: 1,0.
 
 *De vragen zijn zo opgenomen dat ze individueel in de les gebruikt kunnen worden.*
 
