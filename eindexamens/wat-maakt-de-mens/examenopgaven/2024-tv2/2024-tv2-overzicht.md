@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+
 # Examen filosofie 2024 tijdvak 2
 
 Vind [dit examen op examenblad.nl](https://www.examenblad.nl/2024/vwo/vakken/maatschappijvakken/filosofie-vwo). \| N-term: 1,0.
@@ -27,6 +28,7 @@ Vind [dit examen op examenblad.nl](https://www.examenblad.nl/2024/vwo/vakken/maa
 | Kwestie 4 ET 18-21      | Hoofdstuk 11 | [17](vragen/2024-tv2-17.md), [18](vragen/2024-tv2-18.md)                                                       |
 |                         | Hoofdstuk 12 | [6](vragen/2024-tv2-6.md), [12](vragen/2024-tv2-12.md), [15](vragen/2024-tv2-15.md)                            |
 |                         | Hoofdstuk 13 | [5](vragen/2024-tv2-5.md), [7](vragen/2024-tv2-7.md), [16](vragen/2024-tv2-16.md), [23](vragen/2024-tv2-23.md) |
+
 ## Vragen
 
 - Opgave 1

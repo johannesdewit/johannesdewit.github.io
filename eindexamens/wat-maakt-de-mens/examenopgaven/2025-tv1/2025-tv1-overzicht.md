@@ -3,6 +3,7 @@
 Vind dit [examen op examenblad.nl](https://www.examenblad.nl/2025/vwo/vakken/maatschappijvakken/filosofie-vwo). \|  | N-term: 1,2.
 
 *De vragen zijn zo overgenomen dat ze individueel in de les of thuis gebruikt kunnen worden.*
+
 ## Uitgesplitst per domein en hoofdstuk van *Wat maakt de mens?*
 
 | Domein                      | Hoofdstuk    | Vragen                                                                                                                     |
