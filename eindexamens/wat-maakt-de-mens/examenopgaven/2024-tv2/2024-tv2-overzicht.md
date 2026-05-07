@@ -15,7 +15,7 @@ Vind [dit examen op examenblad.nl](https://www.examenblad.nl/2024/vwo/vakken/maa
 | ----------------------- | ------------ | -------------------------------------------------------------------------------------------------------------- |
 | Alg./2e fase ET 1-4. 22 | Inleiding    | [10](vragen/2024-tv2-10.md)                                                                                    |
 | Kwestie 1 ET 5-8        | Hoofdstuk 1  |                                                                                                                |
-|                         | Hoofdstuk 2  | [9](vragen/2024-tv2-9.md), [2](vragen/2024-tv2-2.md)                                                           |
+|                         | Hoofdstuk 2  | [9](vragen/2024-tv2-9.md), [21](vragen/2024-tv2-21.md)                                                         |
 |                         | Hoofdstuk 3  | [11](vragen/2024-tv2-11.md), [12](vragen/2024-tv2-12.md)                                                       |
 | Kwestie 2 ET 9-12       | Hoofdstuk 4  | [1](vragen/2024-tv2-1.md), [2](vragen/2024-tv2-2.md), [20](vragen/2024-tv2-20.md)                              |
 |                         | Hoofdstuk 5  | [3](vragen/2024-tv2-3.md), [4](vragen/2024-tv2-4.md), [13](vragen/2024-tv2-13.md)                              |
@@ -25,7 +25,7 @@ Vind [dit examen op examenblad.nl](https://www.examenblad.nl/2024/vwo/vakken/maa
 |                         | Hoofdstuk 9  | [14](vragen/2024-tv2-14.md)                                                                                    |
 |                         | Hoofdstuk 10 |                                                                                                                |
 | Kwestie 4 ET 18-21      | Hoofdstuk 11 | [17](vragen/2024-tv2-17.md), [18](vragen/2024-tv2-18.md)                                                       |
-|                         | Hoofdstuk 12 | [12](vragen/2024-tv2-12.md), [15](vragen/2024-tv2-15.md)                                                       |
+|                         | Hoofdstuk 12 | [6](vragen/2024-tv2-6.md), [12](vragen/2024-tv2-12.md), [15](vragen/2024-tv2-15.md)                            |
 |                         | Hoofdstuk 13 | [5](vragen/2024-tv2-5.md), [7](vragen/2024-tv2-7.md), [16](vragen/2024-tv2-16.md), [23](vragen/2024-tv2-23.md) |
 ## Vragen
 
