@@ -31,8 +31,8 @@ Vind dit [examen op examenblad.nl](https://www.examenblad.nl/2025/vwo/vakken/maa
 ## Vragen op volgorde
 
 - Opgave 1
-	- [Vraag 1](vragen/2026-tv1-14.md)
-	- [Vraag 2](vragen/2026-tv1-14.md)
+	- [Vraag 1](vragen/2026-tv1-1.md)
+	- [Vraag 2](vragen/2026-tv1-2.md)
 	- [Vraag 3](vragen/2026-tv1-3.md)
 	- [Vraag 4](vragen/2026-tv1-4.md)
 	- [Vraag 5](vragen/2026-tv1-5.md)
