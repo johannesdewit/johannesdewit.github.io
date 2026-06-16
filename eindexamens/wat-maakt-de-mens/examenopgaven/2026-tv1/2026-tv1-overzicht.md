@@ -5,7 +5,7 @@ tags:
 
 # Examen filosofie 2026 tijdvak 1
 
-Vind dit [examen op examenblad.nl](https://www.examenblad.nl/2026/vwo/vakken/maatschappijvakken/filosofie-vwo). \| 
+Vind dit [examen op examenblad.nl](https://www.examenblad.nl/2026/vwo/vakken/maatschappijvakken/filosofie-vwo). \| N-term: 1,1.
 
 *De vragen zijn zo overgenomen dat ze individueel in de les of thuis gebruikt kunnen worden.*
 
