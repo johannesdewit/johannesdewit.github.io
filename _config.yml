@@ -48,6 +48,7 @@ defaults:
       path: "eindexamens/*/examenopgaven/*/antwoorden/"
     values:
       layout: answer
+      question_dir: "../vragen/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
