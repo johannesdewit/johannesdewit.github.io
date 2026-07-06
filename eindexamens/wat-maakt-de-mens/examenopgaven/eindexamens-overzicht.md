@@ -2,7 +2,7 @@
 title: Eindexamens | overzicht
 ---
 
-# Eindexamens overzicht
+# Eindexamens | overzicht
 
 ## 2024 - heden: De vraag naar de mens in relatie tot techniek en wetenschap
 
