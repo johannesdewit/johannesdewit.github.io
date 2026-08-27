@@ -8,7 +8,7 @@ permalink: /eindexamens/vwo/wat-maakt-de-mens
 
 Het eindexamenonderwerp voor het vwo vanaf 2024 is 'De vraag naar de mens in relatie tot techniek en wetenschap'.
 s
-Ik gebruik daarbij het boek _Wat maakt de mens?_. De syllabus vind je [hier](https://www.examenblad.nl/system/files/exam-document/2025-07/syllabus-filosofie-vwo-2027-versie-2.pdf).
+Ik gebruik daarbij het boek _Wat maakt de mens?_. De syllabus vind je [hier](https://www.examenblad.nl/2027/vwo/documenten/syllabus-filosofie-vwo-2027).
 
 ## Materialen
 

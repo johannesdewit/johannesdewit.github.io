@@ -6,7 +6,7 @@ permalink: /eindexamens/wat-maakt-de-mens/eindtermen
 
 # Eindtermen ‘Wat maakt de mens?’
 
-Deze eindtermen zijn terug te vinden in, en overgenomen van [de syllabus op examenblad.nl](https://www.examenblad.nl/2024/vwo/documenten/syllabus-filosofie-vwo). Deze zijn hier verzameld om een overzicht te geven.
+Deze eindtermen zijn terug te vinden in, en overgenomen van [de syllabus op examenblad.nl](https://www.examenblad.nl/2027/vwo/documenten/syllabus-filosofie-vwo-2027). Deze zijn hier verzameld om een overzicht te geven.
 
 ## Algemene eindtermen
 
